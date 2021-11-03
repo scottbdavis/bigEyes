@@ -1,4 +1,4 @@
-# bigEyes
+# bigEyes           [Return to Home](https://scottbdavis.github.io/scottbdavis/)
 
 ### Name: 
 MIT Web Dev Exercise for Week 9 (files are labeled Week 8 due to MIT starting with 0 week)
@@ -23,4 +23,4 @@ see MIT license release in repository.
 
 ![eye image](oneeye.png "bigEye")
 
-[Return to Home](https://scottbdavis.github.io/scottbdavis/)
+
