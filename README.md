@@ -21,6 +21,6 @@ Create different color pacmen with each press the of AddPacman button - by rando
 #### License information: 
 see MIT license release in repository.
 
-![pac man image](PacMan3.png "PacMan")
+![eye image](oneeye.png "bigEye")
 
 [Return to Home](https://scottbdavis.github.io/scottbdavis/)
